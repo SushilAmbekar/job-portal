@@ -17,11 +17,13 @@ A job portal application that allows users to search for jobs, apply for them, a
 ## Screenshots
 
 ### Main_Page
-![Main_Page](![image](https://github.com/user-attachments/assets/2b7ac6c1-b67f-49f9-8c4d-4790015051c5)
+![Main_Page](![Screenshot 2025-05-08 153458](https://github.com/user-attachments/assets/bdfc2ea3-c2d0-4963-b538-cbf68e0e2917)
+)
 )
 
 ### View
-![View](![image](https://github.com/user-attachments/assets/5eaa4008-369a-483e-a585-b5fc26169162)
+![View](![Screenshot 2025-05-08 153654](https://github.com/user-attachments/assets/9fc1b94b-2a03-4667-905e-6a58fa686bcb)
+)
 )
 
 ## Installation

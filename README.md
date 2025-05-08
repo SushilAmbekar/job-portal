@@ -16,7 +16,7 @@ A job portal application that allows users to search for jobs, apply for them, a
 
 ## 📽️ Live Project Demo
 
-[![Watch Demo](https://img.shields.io/badge/Watch%20Demo-Google%20Drive-green?style=for-the-badge&logo=google-drive)]([https://drive.google.com/file/d/1A2B3C4D5E6F7G8H9/view?usp=sharing](https://drive.google.com/file/d/1uBkLCAcxcYtudLEsTTi_OS2OYCr7ViZh/view?usp=sharing))
+[![Watch Demo](https://img.shields.io/badge/Watch%20Demo-Google%20Drive-green?style=for-the-badge&logo=google-drive)]([https://drive.google.com/file/d/1A2B3C4D5E6F7G8H9/view?usp=sharing](https://drive.google.com/file/d/1uBkLCAcxcYtudLEsTTi_OS2OYCr7ViZh/view?usp=sharing)](https://drive.google.com/file/d/1uBkLCAcxcYtudLEsTTi_OS2OYCr7ViZh/view?usp=sharing))
 
 
 ## Screenshots
